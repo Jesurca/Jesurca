@@ -8,6 +8,7 @@
 
 <h2 align="left">About me</h2>
 <p>Passionate about programming and innovation in computing.</p>
+
 ###
 
 <p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning java<br>🎯 Goals: discover and learn what I am most passionate about to be the best<br>🎲 Fun fact: The term "bug" comes from a moth that damaged the Mark III computer in 1947.</p>
