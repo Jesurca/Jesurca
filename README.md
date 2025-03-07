@@ -22,7 +22,7 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="[https://banner2.cleanpng.com/20181212/lkz/kisspng-professional-python-high-level-programming-languag-5c115384027755.6218390315446393640101.jpg](https://w7.pngwing.com/pngs/585/822/png-transparent-python-scalable-graphics-logo-javascript-creative-dimensional-code-angle-text-rectangle-thumbnail.png)" height="40" alt="python logo"  />
+  <img src="https://banner2.cleanpng.com/20181212/lkz/kisspng-professional-python-high-level-programming-languag-5c115384027755.6218390315446393640101.jpg](https://w7.pngwing.com/pngs/585/822/png-transparent-python-scalable-graphics-logo-javascript-creative-dimensional-code-angle-text-rectangle-thumbnail.png)" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/Java-original.svg" height="40" alt="Java logo"  />
   <img width="12" />
