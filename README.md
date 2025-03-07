@@ -7,7 +7,7 @@
 ###
 
 <h2 align="left">About me</h2>
-<p>Passionate about programming and innovation in computing.</p>
+<p>Young man passionate about programming and innovation in computing with a desire to learn and improve my country.</p>
 
 ###
 
@@ -22,9 +22,9 @@
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/Python-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/Python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/Java-original.svg" height="40" alt="react logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/Java-original.svg" height="40" alt="Java logo"  />
   <img width="12" />
 
 </div>
