@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Jesús and I'am a student of a degree in systems engineering, from Colombia</p>
+<p align="left">My name is Jesús and I'am a student of a degree in systems engineering, from Colombia.</p>
 
 ###
 
