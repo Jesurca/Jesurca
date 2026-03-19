@@ -1,30 +1,88 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# 👋 ¡Hola! Soy Jesús David Urbiñez Caselles
 
-###
+🎓 Estudiante de Ingeniería de Sistemas (4er semestre)
+💻 Apasionado por el desarrollo de software, la inteligencia artificial y la analítica de datos
+📍 Colombia
 
-<p align="left">My name is Jesús and I'am a student of a degree in systems engineering, from Colombia.</p>
+---
 
-###
+## 🚀 Sobre mí
 
-<h2 align="left">About me</h2>
-<p>Young man passionate about programming and innovation in computing with a desire to learn and improve my country.</p>
+Soy un estudiante enfocado en el crecimiento constante en el área de tecnología. Actualmente estoy fortaleciendo mis habilidades en:
 
-###
+* 📊 Análisis de datos y estadística
+* 🤖 Inteligencia Artificial
+* 💻 Desarrollo de software
+* 🌐 Desarrollo web
+* 🧠 Lógica y matemáticas 
 
-<p align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning java<br>🎯 Goals: discover and learn what I am most passionate about to be the best<br>🎲 Fun fact: The term "bug" comes from a moth that damaged the Mark III computer in 1947.</p>
+También estoy aprendiendo inglés para mejorar mis oportunidades profesionales.
 
-###
+---
 
-<h2 align="left">I code with</h2>
+## 🛠️ Tecnologías y herramientas
 
-###
+### 👨‍💻 Lenguajes de programación
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
- 
-  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
 
-</div>
+### 🌐 Desarrollo web
 
-###
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+
+### 🗄️ Herramientas y tecnologías
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
+
+---
+
+## 📌 Proyectos destacados
+
+### 🧠 Análisis de satisfacción académica
+
+Proyecto enfocado en analizar la satisfacción de estudiantes de ingeniería mediante técnicas estadísticas.
+
+### 🚦 Sistema inteligente de tráfico
+
+Software basado en visión computacional para detectar la cantidad de vehículos en semáforos y mejorar la movilidad.
+
+### 🛒 Simulador de e-commerce en Python
+
+Aplicación que simula una tienda online usando API, manejo de carrito y almacenamiento en JSON.
+
+### 🧟 Simulación de combate (POO)
+
+Proyecto en Python con herencia y clases abstractas simulando combates entre diferentes tipos de zombies.
+
+---
+
+## 📈 Actualmente aprendiendo
+
+* Machine Learning con Python
+* Programación orientada a objetos avanzada
+* Desarrollo de aplicaciones web
+* Desarrollo de app moviles con kotlin
+* Inglés técnico
+
+---
+
+## 🎯 Objetivos
+
+* Convertirme en desarrollador de software profesional
+* Especializarme en Inteligencia Artificial
+* Participar en proyectos de alto impacto tecnológico
+
+---
+
+## 📫 Contacto
+
+📧 Puedes contactarme para colaboraciones o proyectos
+Jurbinez@unab.edu.co
+
+---
