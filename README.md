@@ -1,6 +1,6 @@
 # 👋 ¡Hola! Soy Jesús David Urbiñez Caselles
 
-🎓 Estudiante de Ingeniería de Sistemas (4er semestre)
+🎓 Estudiante de Ingeniería de Sistemas (4to semestre)
 💻 Apasionado por el desarrollo de software, la inteligencia artificial y la analítica de datos
 📍 Colombia
 
@@ -83,6 +83,7 @@ Proyecto en Python con herencia y clases abstractas simulando combates entre dif
 ## 📫 Contacto
 
 📧 Puedes contactarme para colaboraciones o proyectos
+
 Jurbinez@unab.edu.co
 
 ---
