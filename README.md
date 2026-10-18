@@ -1,89 +1,91 @@
-# 👋 ¡Hola! Soy Jesús David Urbiñez Caselles
-
-🎓 Estudiante de Ingeniería de Sistemas (4to semestre)
-💻 Apasionado por el desarrollo de software, la inteligencia artificial y la analítica de datos
-📍 Colombia
+<div align="center">
+  <h1>👋 ¡Hola, soy Jesús David Urbiñez Caselles! (@Jesurca)</h1>
+  
+  <!-- Animación de texto dinámico -->
+  <a href="https://github.com/Jesurca">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Ingeniero+de+Sistemas+%40UNAB;Apasionado+por+DevSecOps+%26+Ciberseguridad;Desarrollador+Backend+%26+IoT;Investigador+en+IA+%26+Datos" alt="Typing SVG" />
+  </a>
+</div>
 
 ---
 
 ## 🚀 Sobre mí
 
-Soy un estudiante enfocado en el crecimiento constante en el área de tecnología. Actualmente estoy fortaleciendo mis habilidades en:
+Soy un estudiante de 6to semestre de Ingeniería de Sistemas en la UNAB (Bucaramanga), originario de **Santa Rosa del Sur**, Colombia. Me apasiona construir arquitecturas robustas, asegurar sistemas e integrar inteligencia artificial en soluciones cotidianas.
 
-* 📊 Análisis de datos y estadística
-* 🤖 Inteligencia Artificial
-* 💻 Desarrollo de software
-* 🌐 Desarrollo web
-* 🧠 Lógica y matemáticas 
-
-También estoy aprendiendo inglés para mejorar mis oportunidades profesionales.
+*   🏛️ **Liderazgo:** Representante estudiantil del Comité Curricular de Ingeniería de Sistemas en la UNAB y voluntario activo en ferias tecnológicas (*ingenioTIC*).
+*   🛡️ **Foco actual:** Ciberseguridad, DevSecOps, Ingeniería Inversa e Infraestructura como Código (IaC).
+*   🥋 **Fuera del teclado:** Atleta de Taekwondo (competidor ASCUN), practicante de MMA y en camino a aprender Jiu-jitsu. Aprendiendo Portugués e Inglés.
 
 ---
 
-## 🛠️ Tecnologías y herramientas
+## 🛠️ Stack Tecnológico
 
-### 👨‍💻 Lenguajes de programación
+<details>
+  <summary><b>💻 Lenguajes de Programación</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+</details>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+<details>
+  <summary><b>⚙️ Desarrollo Backend, Web & Móvil</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+</details>
 
-### 🌐 Desarrollo web
+<details>
+  <summary><b>🗄️ Bases de Datos & Arquitectura</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Oracle_APEX-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Apache_Cassandra-1287B1?style=for-the-badge&logo=apachecassandra&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-018BFF?style=for-the-badge&logo=neo4j&logoColor=white" />
+</details>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### 🗄️ Herramientas y tecnologías
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge\&logo=googlecolab\&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge\&logo=microsoft-excel\&logoColor=white)
-
----
-
-## 📌 Proyectos destacados
-
-### 🧠 Análisis de satisfacción académica
-
-Proyecto enfocado en analizar la satisfacción de estudiantes de ingeniería mediante técnicas estadísticas.
-
-### 🚦 Sistema inteligente de tráfico
-
-Software basado en visión computacional para detectar la cantidad de vehículos en semáforos y mejorar la movilidad.
-
-### 🛒 Simulador de e-commerce en Python
-
-Aplicación que simula una tienda online usando API, manejo de carrito y almacenamiento en JSON.
-
-### 🧟 Simulación de combate (POO)
-
-Proyecto en Python con herencia y clases abstractas simulando combates entre diferentes tipos de zombies.
+<details>
+  <summary><b>☁️ Infraestructura, IoT & Herramientas</b></summary>
+  <br/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Azure_IoT-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_Academy-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+</details>
 
 ---
 
-## 📈 Actualmente aprendiendo
+## 📌 Proyectos Destacados
 
-* Machine Learning con Python
-* Programación orientada a objetos avanzada
-* Desarrollo de aplicaciones web
-* Desarrollo de app moviles con kotlin
-* Inglés técnico
-
----
-
-## 🎯 Objetivos
-
-* Convertirme en desarrollador de software profesional
-* Especializarme en Inteligencia Artificial
-* Participar en proyectos de alto impacto tecnológico
+| Proyecto | Descripción | Stack |
+| :--- | :--- | :--- |
+| 📱 **MiPlato** | App móvil con IA que estima macronutrientes a partir de imágenes de comida. Presentada en *ingenioTIC 2026*. | `Kotlin`, `Jetpack Compose`, `Firebase AI` |
+| 🛢️ **Ecopetrol IoT Sys** | Simulación industrial de Internet de las Cosas para monitoreo en tiempo real de estaciones petroleras. | `Azure IoT Central`, `Grafana` |
+| 🛒 **CelularShop** | Plataforma e-commerce completa para dispositivos móviles con gestión de bases de datos relacionales. | `PHP`, `Laravel`, `Blade`, `MySQL` |
+| 🌍 **UTSmart IA Challenge** | Solución analítica con modelos de Inteligencia Artificial utilizando *datasets* oficiales sobre actividad sísmica en Santander. | `Python`, `Machine Learning`, `Data Science` |
+| 🛡️ **UNAB Tester Ops** | Aseguramiento de calidad (*QA*) y pruebas de seguridad en los nuevos servidores para el portal oficial de la UNAB. | `Ciberseguridad`, `Testing` |
 
 ---
 
-## 📫 Contacto
+## 📊 Estadísticas de GitHub
 
-📧 Puedes contactarme para colaboraciones o proyectos
-
-Jurbinez@unab.edu.co
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Jesurca&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Jesurca's GitHub stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jesurca&theme=tokyonight&hide_border=true&background=0D1117" alt="Jesurca's Streak" width="48%"/>
+</div>
 
 ---
+
+## 📫 Conectemos
+
+<div align="center">
+  <a href="mailto:jurbinez@unab.edu.co">
+    <img src="https://img.shields.io/badge/Email-jurbinez%40unab.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://linkedin.com/in/tu-usuario-de-linkedin">
+    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
