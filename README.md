@@ -11,11 +11,11 @@
 
 ## 🚀 Sobre mí
 
-Soy un estudiante de 6to semestre de Ingeniería de Sistemas en la UNAB (Bucaramanga), originario de **Santa Rosa del Sur**, Colombia. Me apasiona construir arquitecturas robustas, asegurar sistemas e integrar inteligencia artificial en soluciones cotidianas.
+Soy un estudiante de 5to semestre de Ingeniería de Sistemas en la UNAB (Bucaramanga), originario de **Santa Rosa del Sur**, Colombia. Me apasiona construir arquitecturas robustas, asegurar sistemas e integrar inteligencia artificial en soluciones cotidianas.
 
-*   🏛️ **Liderazgo:** Representante estudiantil del Comité Curricular de Ingeniería de Sistemas en la UNAB y voluntario activo en ferias tecnológicas (*ingenioTIC*).
+*   🏛️ **Liderazgo:** Representante estudiantil del Comité Curricular de Ingeniería de Sistemas en la UNAB y voluntario activo en ferias tecnológicas. hackathons y congresos.
 *   🛡️ **Foco actual:** Ciberseguridad, DevSecOps, Ingeniería Inversa e Infraestructura como Código (IaC).
-*   🥋 **Fuera del teclado:** Atleta de Taekwondo (competidor ASCUN), practicante de MMA y en camino a aprender Jiu-jitsu. Aprendiendo Portugués e Inglés.
+*   🥋 **Fuera del teclado:** Atleta de Taekwondo (competidor ASCUN). Aprendiendo Portugués e Inglés.
 
 ---
 
