@@ -86,6 +86,6 @@ Soy un estudiante de 5to semestre de Ingeniería de Sistemas en la UNAB (Bucaram
     <img src="https://img.shields.io/badge/Email-jurbinez%40unab.edu.co-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://linkedin.com/in/tu-usuario-de-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="[https://img.shields.io/badge/LinkedIn-Conectar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/jes%C3%BAs-david-urbi%C3%B1ez-caselles-a2ba633b3/)" alt="LinkedIn" />
   </a>
 </div>
